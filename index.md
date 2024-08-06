@@ -13,7 +13,7 @@ Here you will find some information about me, my education, and my projects. �
 
 👋 My name is Christoph Fürbahs.
 I am a technology-addicted person with a strong interest in Microsoft technology. 🖥️
-You can find my current and previous projects and education on [LinkedIn](https://www.linkedin.com/in/furchr).
+You can find my current and previous projects and education on [Linkedin](https://www.linkedin.com/in/furchr).
 
 # Projects
 
@@ -101,6 +101,6 @@ Together with Felix Graf, Simon Eicher, and Jonas Gollenz from the FH Joanneum, 
 
 ## Contact 📬
 
-[LinkedIn](https://www.linkedin.com/in/fuerbahschristoph)
+[Linkedin](https://www.linkedin.com/in/fuerbahschristoph)
 
 [christoph@fuerbahs.com](mailto:christoph@fuerbahs.com)

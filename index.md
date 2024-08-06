@@ -97,6 +97,7 @@ I help Mag. Georg Steingruber to install several schools in and around Graz incl
 Together with Felix Graf, Simon Eicher, and Jonas Gollenz from the FH Joanneum, we produced a marketing video for the Museum of Perception in Graz/Styria/Austria. 🎬
 
 [https://www.fh-joanneum.at/ima](https://www.fh-joanneum.at/ima)
+
 [https://www.muwa.at/](https://www.muwa.at/)
 
 ## Contact 📬

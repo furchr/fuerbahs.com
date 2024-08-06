@@ -1,122 +1,106 @@
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 ---
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+# 🎉 fuerbahs.com 🎉
 
-There should be whitespace between paragraphs.
+Welcome to my website. 🌐
+Here you will find some information about me, my education, and my projects. 📚💻
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Last modified 2024-08-06 BETA 🛠️
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+👋 My name is Christoph Fürbahs.
+I am a technology-addicted person with a strong interest in Microsoft technology. 🖥️
+You can find my current and previous projects and education on [LinkedIn](https://www.linkedin.com/in/furchr).
 
-## Header 2
+# Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+On this site, you can learn about the projects I have worked on or am currently working on. Please have a look at the subpages in the side menu on the left side. 👀
 
-### Header 3
+## Bahsi.tv on Youtube.com 📺
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[https://bahsi.tv](https://bahsi.tv) is my YouTube channel.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Mainly you will find videos about Microsoft technology, troubleshooting, and general IT stuff there. ⚙️
 
-#### Header 4
+In the playlist section, you can have a look at several videos about:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Windows Server 2012 R2 / English + German**
+  - DHCP
+  - DNS
+  - PowerShell
+  - Active Directory
+  - Hyper-V
+- **Windows 8.1 / English + German**
+  - Group Policy
+  - BitLocker Disk Encryption
+  - PowerShell Introduction
+- **Microsoft Office Word 2013 / German**
+  - Introduction
+- **Microsoft Office Excel 2013 / German**
+  - Introduction
+  - Especially the use for business administration science
+- **Computer Networks / German**
+- **Debian**
+  - Mainly using the Bash Shell
+- **Adobe Flash Professional CS6 / German**
+  - Two special videos on troubleshooting certain issues
 
-##### Header 5
+## PfarreTobelbad.at ⛪
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[https://www.pfarretobelbad.at](https://www.pfarretobelbad.at) was a website that was created as an obligatory project at High School at the HAK Grazbachgasse in 2011 together with my colleagues Christian Bagari and Stefan Haberlandt.
 
-###### Header 6
+The main goal was to create a website for the Parish Office Tobelbad in Hasensdorf-Tobelbad/Styria/Austria so they could publish information, pictures, and other content on their site. 📸📝
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Additionally, we created a video about their employees and one about the history of the Parish Office Tobelbad. Both videos are available on their website.
 
-### There's a horizontal rule below this.
+The website has since been reprogrammed and is now maintained by the Parish Office Tobelbad IT team.
 
-* * *
+## Massage-Karner.at 💆‍♂️
 
-### Here is an unordered list:
+[https://www.massage-karner.at](https://www.massage-karner.at) is the private website of the lay pastor of the Parish Office Tobelbad. He has a massage parlor besides his work for the parish office. This website has been available since 09/2012. 📅
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Hardwarelabor 🔧
 
-### And an ordered list:
+The "Hardwarelabor" was a room in the cellar of our school and the name for a voluntary subject, created by one of our teachers.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+At my time, MMag. Verena Seiner and Mag. Kristian Trubelja were responsible for this subject. 👩‍🏫👨‍🏫
 
-### And a nested list:
+### What was the subject about?
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Together with our teachers, we maintained and repaired the IT infrastructure of our school including, for example:
 
-### Small image
+- Maintaining, cleaning, and connecting video projectors 🎥
+- Repairing PCs in the classrooms and computer rooms 🖥️
+- Repairing and installing printers in the classrooms and computer rooms 🖨️
+- Installing PCs based on a WDS-Image 💾
+- Getting "difficult programs" running 🛠️
+- Support for the IT system in our banquet hall 🏛️
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## VirtualSchool.at 🏫
 
-### Large image
+[https://www.virtualschool.at](https://www.virtualschool.at) is a complete virtualization infrastructure solution based on Hyper-V.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I help Mag. Georg Steingruber to install several schools in and around Graz including:
 
+- AHS Sacre Coeur, Graz 🏫
+- AHS Kapfenberg 🏫
+- AHS Bruck an der Mur 🏫
+- HLW Krieglach 🏫
 
-### Definition lists can be used with HTML syntax.
+## Museum of Perception - Marketing Video 🎥
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[https://www.youtube.com/user/MUWAGRAZ](https://www.youtube.com/user/MUWAGRAZ)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Together with Felix Graf, Simon Eicher, and Jonas Gollenz from the FH Joanneum, we produced a marketing video for the Museum of Perception in Graz/Styria/Austria. 🎬
 
-```
-The final element.
-```
+[https://www.fh-joanneum.at/ima](https://www.fh-joanneum.at/ima)
+[https://www.muwa.at/](https://www.muwa.at/)
+
+## Contact 📬
+
+[LinkedIn](https://www.linkedin.com/in/fuerbahschristoph)
+
+[christoph@fuerbahs.com](mailto:christoph@fuerbahs.com)

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 🎉 fuerbahs.com 🎉
 
 Welcome to my website. 🌐
